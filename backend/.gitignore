@@ -1,0 +1,73 @@
+### Maven ###
+target/
+HELP.md
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+release.properties
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Logs ###
+*.log
+
+### Sistema ###
+.DS_Store
+Thumbs.db
+
+### Archivos de entorno ###
+*.env
+*.local
+
+### Otros IDEs ###
+*.classpath
+*.project
+*.settings/
+*.factorypath
+
+### STS / Eclipse ###
+.apt_generated
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Build en carpetas específicas (por si alguien copia mal)
+**/src/main/**/build/
+**/src/test/**/build/
+**/src/main/**/target/
+**/src/test/**/target/
