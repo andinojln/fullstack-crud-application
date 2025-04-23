@@ -2,12 +2,6 @@
 
 Es una aplicación web fullstack desarrollada con Spring Boot para el backend, MySQL para la base de datos y React con Bootstrap para el frontend.
 
-## Tabla de Contenido
-
-- [Características](#caracteristicas)
-- [Requisitos](#requisitos)
-- [Clonación](#clonacion)
-
 ## Características
 
 - **Spring Boot Backend:**
@@ -29,9 +23,9 @@ Antes de clonar, asegúrate de cumplir los siguientes requisitos:
 
 ## Clonación
 
-Haz esto para ejecutar la app localmente:
+Haz esto para clonar el repositorio localmente:
 
-1. Clonar el repositorio:
+1. Ejecutar en una terminal:
 
    ```bash
    git clone https://github.com/andinojln/fullstack-crud-application.git
